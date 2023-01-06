@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+Assignment check/x64/
+x64/Debug/Assignment check.pdb
+Assignment check/Assignment check.vcxproj.user
